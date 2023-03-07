@@ -27,9 +27,10 @@ h1, h2, p {
     background-color: burlywood;
     margin-left: auto;
     margin-right: auto;
-    padding: 20px;
+    padding: 50px;
     max-width: 500px;
 }
+
 
 hr {
     height: 2px;
@@ -37,9 +38,11 @@ hr {
     border-color: brown;
 }
 
+
 .bottom-line {
     margin-top: 25px;
 }
+
 
 h1, h2 {
     font-family: Impact, serif;
@@ -52,10 +55,12 @@ h1, h2 {
     font-size: 18px;
 }
 
+
 .flavor, .dessert {
     text-align: left;
     width: 75%;
 }
+
 
 .price {
     text-align: right;
