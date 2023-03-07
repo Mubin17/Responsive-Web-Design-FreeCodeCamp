@@ -2,7 +2,7 @@
 
 For this project I built a mock Fifa23 survey form 
 
-![alt text](https://imgur.com/ZpDMuBk)
+![alt text](https://i.imgur.com/ZpDMuBk.png)
 
 To-do list:
 - Make webpage/app suitable for nobile devices.
